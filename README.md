@@ -17,7 +17,8 @@ When in doubt, refer to the [conference schedule](https://eurorust.eu/schedule/)
 
 ## Where
 
-The `impl Room` will be held in the "Side track" room at the conference venue.
+The `impl Room` will be held in the "Side track" room at the conference venue.  
+You'll need a conference ticket to access the room.
 
 ## Mentors: how to join 
 
