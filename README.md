@@ -17,8 +17,8 @@ The `impl Room` will be held in the "Side track" room at the conference venue.
 
 ## Mentors: how to join 
 
-If you have an idea for a project, open an issue with a short project description to find other folks who'd be 
-interested to work on it with you.  
+If you have an idea for a project, [open an issue](https://github.com/mainmatter/eurorust-2024-impl-Room/issues/new?assignees=&labels=project%2C+open&template=project-proposal.md&title=%5BProject+proposal%5D+%3CName+of+the+project%3E) 
+with a short project description to find other folks who'd be interested to work on it with you.  
 
 There is no definition of "the right project": the `impl Room` is an occasion to tinker and explore.
 
