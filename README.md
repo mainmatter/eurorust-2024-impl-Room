@@ -8,8 +8,12 @@ If you're a contributor, you can use this room to get help with your first contr
 
 ## When
 
-The `impl Room` will take place in the afternoon of October 10th 2024, during the first conference day of EuroRust 2024. 
-It'll run from 16:00 to 17:30 CEST.
+There will be two `impl Room` sessions:
+
+- On October 10th 2024, from 16:00 to 17:30 CEST, during the first conference day of EuroRust 2024
+- On October 11th 2024, from 16:00 to 17:30 CEST, during the second conference day of EuroRust 2024
+
+When in doubt, refer to the [conference schedule](https://eurorust.eu/schedule/) for the most up-to-date information.
 
 ## Where
 
